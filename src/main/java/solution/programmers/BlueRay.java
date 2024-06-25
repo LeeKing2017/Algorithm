@@ -1,4 +1,4 @@
-package solution;
+package solution.programmers;
 
 import java.util.*;
 import java.io.*;

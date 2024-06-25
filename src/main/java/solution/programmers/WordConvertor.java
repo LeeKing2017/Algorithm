@@ -1,6 +1,7 @@
-package solution;
+package solution.programmers;
 
 import java.util.*;
+import java.util.Stack;
 
 class WordConvertor {
     public static void main(String[] args) {
@@ -22,7 +23,7 @@ class WordConvertor {
 
     private static int solution(String begin, String target, String[] words) {
         boolean[] visited = new boolean[words.length];
-        Stack<WordNode> stack = new Stack<>();
+        java.util.Stack<WordNode> stack = new Stack<>();
         stack.push(new WordNode(begin, 0));
 
         while (!stack.isEmpty()) {

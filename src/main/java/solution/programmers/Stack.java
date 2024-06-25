@@ -1,4 +1,4 @@
-package solution.kakaoblindrecruitment;
+package solution.programmers;
 
 import java.util.ArrayList;
 import java.util.HashMap;
