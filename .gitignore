@@ -27,7 +27,7 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-!src/main/java/solution/programmers/Form.java
+src/main/java/solution/programmers/Form.java
 
 ### NetBeans ###
 /nbproject/private/
