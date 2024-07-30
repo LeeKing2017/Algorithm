@@ -1,4 +1,4 @@
-package solution.programmers;
+package solution.programmers.level1;
 
 import java.util.Arrays;
 
@@ -6,7 +6,7 @@ import java.util.Arrays;
  * https://school.programmers.co.kr/learn/courses/30/lessons/42748
  * K번째수
  */
-public class SortAndSelect {
+public class Programmers42748 {
     public static void main(String[] args) {
         int[] solution = solution(new int[]{1, 5, 2, 6, 3, 7, 4}, new int[][]{{2, 5, 3}, {4, 4, 1}, {1, 7, 3}});
         System.out.println("solution = " + Arrays.toString(solution));

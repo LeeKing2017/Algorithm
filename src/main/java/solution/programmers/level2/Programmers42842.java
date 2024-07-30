@@ -1,8 +1,8 @@
-package solution.programmers;
+package solution.programmers.level2;
 
 import java.util.Arrays;
 
-public class Carpet {
+public class Programmers42842 {
     public static void main(String[] args) {
         int[] solution = solution(10, 2);
 

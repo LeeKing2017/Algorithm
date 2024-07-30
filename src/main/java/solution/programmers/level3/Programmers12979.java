@@ -1,10 +1,10 @@
-package solution.programmers;
+package solution.programmers.level3;
 
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/12979
  * 기지국 설치
  */
-public class StationInstall {
+public class Programmers12979 {
     public static void main(String[] args) {
         int solution = solution(11, new int[]{4, 11}, 1);
         System.out.println("solution = " + solution);

@@ -1,4 +1,4 @@
-package solution.programmers;
+package solution.programmers.level2;
 
 import java.io.*;
 import java.util.*;

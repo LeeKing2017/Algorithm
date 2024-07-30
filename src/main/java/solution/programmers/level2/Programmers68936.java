@@ -1,10 +1,10 @@
-package solution.programmers;
+package solution.programmers.level2;
 
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/68936
  * 쿼드압축 후 개수 세기
  */
-public class QuadCompress {
+public class Programmers68936 {
     private static int[][] Arr;
     private static int[] answer;
 

@@ -1,7 +1,7 @@
-package solution.programmers;
+package solution.programmers.level1;
 
 import java.util.*;
-public class Budget {
+public class Programmers12982 {
     static class Solution {
         public int solution(int[] d, int budget) {
             Arrays.sort(d);

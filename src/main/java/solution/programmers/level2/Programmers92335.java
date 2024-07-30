@@ -1,12 +1,10 @@
-package solution.programmers;
-
-import java.util.Arrays;
+package solution.programmers.level2;
 
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/92335?language=java
  * k진수에서 소수 개수 구하기
  */
-public class PrimeNumber {
+public class Programmers92335 {
     public static void main(String[] args) {
         solution(110011, 10);
     }

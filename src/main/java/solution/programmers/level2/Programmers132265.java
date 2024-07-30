@@ -1,10 +1,10 @@
-package solution.programmers;
+package solution.programmers.level2;
 import java.util.*;
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/132265
  * 롤케이크 자르기
  */
-public class CutCake {
+public class Programmers132265 {
 
     static class Solution {
         public int solution(int[] topping) {

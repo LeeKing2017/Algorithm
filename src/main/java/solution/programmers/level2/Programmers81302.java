@@ -1,10 +1,10 @@
-package solution.programmers;
+package solution.programmers.level2;
 
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/81302?language=java
  * 거리두기 확인하기
  */
-public class DistanceCheck {
+public class Programmers81302 {
     public static void main(String[] args) {
         solution(new String[][]{{"POOOP", "OXXOX", "OPXPX", "OOXOX", "POXXP"}, {"POOPX", "OXPXP", "PXXXO", "OXXXO", "OOOPP"}, {"PXOPX", "OXOXP", "OXPOX", "OXXOP", "PXPOX"}, {"OOOXX", "XOOOX", "OOOXX", "OXOOX", "OOOOO"}, {"PXPXP", "XPXPX", "PXPXP", "XPXPX", "PXPXP"}});
     }

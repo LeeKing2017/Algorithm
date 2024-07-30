@@ -1,9 +1,13 @@
-package solution.programmers;
+package solution.programmers.level2;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Word {
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/84512
+ * 모음 사전
+ */
+public class Programmers84512 {
     private final static String[] characters = {"A", "E", "I", "O", "U"};
     private final static List<String> wordList = new ArrayList<>();
 

@@ -1,4 +1,4 @@
-package solution.programmers;
+package solution.programmers.level1;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -7,7 +7,7 @@ import java.util.Comparator;
  * https://school.programmers.co.kr/learn/courses/30/lessons/12933
  * 정수 내림차순으로 배치하기
  */
-public class LongSort {
+public class Programmers12933 {
     public static void main(String[] args) {
         long solution = solution(118372);
         System.out.println("solution = " + solution);

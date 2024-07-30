@@ -1,4 +1,4 @@
-package solution.programmers;
+package solution.programmers.level2;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -9,7 +9,7 @@ import java.util.Queue;
  * https://school.programmers.co.kr/learn/courses/30/lessons/250136
  * 석유 시츄
  */
-public class OilPull {
+public class Programmers250136 {
     public static void main(String[] args) {
         int solution = solution(new int[][]{{0, 0, 0, 1, 1, 1, 0, 0}, {0, 0, 0, 0, 1, 1, 0, 0}, {1, 1, 0, 0, 0, 1, 1, 0}, {1, 1, 1, 0, 0, 0, 0, 0}, {1, 1, 1, 0, 0, 0, 1, 1}});
         System.out.println("solution = " + solution);

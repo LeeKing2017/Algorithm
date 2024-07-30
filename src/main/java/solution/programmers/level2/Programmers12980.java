@@ -1,10 +1,9 @@
-package solution.programmers;
-
+package solution.programmers.level2;
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/12980
  * 점프와 순간 이동
  */
-public class JumpAndMove {
+public class Programmers12980 {
     public static class Solution {
         public int solution(int n) {
             int ans = n % 2 == 0 ? 0 : 1;

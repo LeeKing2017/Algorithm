@@ -1,4 +1,4 @@
-package solution.kakaoblindrecruitment;
+package solution.programmers.level1;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
@@ -7,7 +7,7 @@ import java.util.ArrayList;
 /**
  * 코딩테스트 연습 -> 2023 KAKAO BLIND RECRUITMENT -> 개인정보 수집 유효기간
  */
-public class Level1 {
+public class Programmers150370 {
     public int[] solution(String today, String[] terms, String[] privacies) {
         ArrayList<String> termsType = new ArrayList<>();
         ArrayList<String> termsMonth = new ArrayList<>();

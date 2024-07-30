@@ -1,11 +1,11 @@
-package solution.programmers;
+package solution.programmers.level0;
 import java.util.*;
 
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/120861
  * 캐릭터의 좌표
  */
-public class MoveCharacter {
+public class Programmers120861 {
     static class Solution {
 
         public int[] solution(String[] keyinput, int[] board) {

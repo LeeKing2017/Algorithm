@@ -1,4 +1,4 @@
-package solution.programmers;
+package solution.programmers.level2;
 
 import java.util.Arrays;
 
@@ -6,7 +6,7 @@ import java.util.Arrays;
  * https://school.programmers.co.kr/learn/courses/30/lessons/70129
  * 이진 변환 반복하기
  */
-public class ConvertBinary {
+public class Programmers70129 {
     public static void main(String[] args) {
         int[] solution = solution("110010101001");
         System.out.println("solution = " + Arrays.toString(solution));

@@ -1,4 +1,4 @@
-package solution.programmers;
+package solution.programmers.level3;
 
 import java.util.Arrays;
 
@@ -6,7 +6,7 @@ import java.util.Arrays;
  * https://school.programmers.co.kr/learn/courses/30/lessons/12987?language=java
  * 숫자 게임
  */
-public class NumCompete {
+public class Programmers12987 {
     public static void main(String[] args) {
         int solution = solution(new int[]{5, 1, 3, 7}, new int[]{2, 2, 6, 8});
         System.out.println("solution = " + solution);

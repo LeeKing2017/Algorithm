@@ -1,4 +1,4 @@
-package solution.programmers;
+package solution.programmers.level2;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -7,7 +7,7 @@ import java.util.Comparator;
  * https://school.programmers.co.kr/learn/courses/30/lessons/181188
  * 요격 시스템
  */
-public class MissileSystem {
+public class Programmers181188 {
     public static void main(String[] args) {
         int solution = solution(new int[][]{{4, 5}, {4, 8}, {10, 14}, {11, 13}, {5, 12}, {3, 7}, {1, 4}});
         System.out.println("solution = " + solution);

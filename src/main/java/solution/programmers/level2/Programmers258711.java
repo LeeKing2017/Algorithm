@@ -1,4 +1,4 @@
-package solution.programmers;
+package solution.programmers.level2;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -8,7 +8,7 @@ import java.util.Map;
  * https://school.programmers.co.kr/learn/courses/30/lessons/258711
  * 도넛과 막대 그래프
  */
-public class DonutAndBarGraph {
+public class Programmers258711 {
     public static void main(String[] args) {
         int[] solution1 = solution(new int[][]{{2, 3}, {4, 3}, {1, 1}, {2, 1}});
         System.out.println("solution1 = " + Arrays.toString(solution1));

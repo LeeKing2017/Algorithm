@@ -1,14 +1,10 @@
-package solution.programmers;
-
-import java.time.LocalDate;
-import java.util.ArrayList;
-import java.util.Objects;
+package solution.programmers.level2;
 
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/12913
  * 땅따먹기
  */
-public class EatTheLand {
+public class Programmers12913 {
     private static int y = 0;
     private static int answer = 0;
     private static int[][] Land;

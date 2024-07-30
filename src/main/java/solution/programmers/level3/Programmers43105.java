@@ -1,6 +1,10 @@
-package solution.programmers;
+package solution.programmers.level3;
 
-public class Triangle {
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/43105
+ * 정수 삼각형
+ */
+public class Programmers43105 {
     public static void main(String[] args) {
         int solution = solution(new int[][]{{7}, {3, 8}, {8, 1, 0}, {2, 7, 4, 4}, {4, 5, 2, 6, 5}});
         System.out.println("solution = " + solution);

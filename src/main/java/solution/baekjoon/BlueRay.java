@@ -1,4 +1,4 @@
-package solution.programmers;
+package solution.baekjoon;
 
 import java.util.*;
 import java.io.*;

@@ -1,4 +1,4 @@
-package solution.programmers;
+package solution.programmers.level3;
 
 import java.util.HashSet;
 import java.util.regex.Pattern;
@@ -7,7 +7,7 @@ import java.util.regex.Pattern;
  * https://school.programmers.co.kr/learn/courses/30/lessons/64064?language=java
  * 불량 사용자
  */
-public class RogueUser {
+public class Programmers64064 {
     public static void main(String[] args) {
         String[] user_id_3 = {"frodo", "fradi", "crodo", "abc123", "frodoc"};
         String[] banned_id_3 = {"fr*d*", "abc1**"};

@@ -1,8 +1,8 @@
-package solution.programmers;
+package solution.programmers.level3;
 
 import java.util.Arrays;
 
-public class ImmigrationInspector {
+public class Programmers43238 {
     public static void main(String[] args) {
         int n = 6;
         int[] times = new int[]{7, 10};
