@@ -1,4 +1,4 @@
-package solution.programmers.level2;
+package solution.programmers.level2.twopointer;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package solution.programmers.level2;
+package solution.programmers.level2.bfs;
 
 import java.io.*;
 import java.util.*;

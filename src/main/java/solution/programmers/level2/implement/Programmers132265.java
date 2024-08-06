@@ -1,4 +1,4 @@
-package solution.programmers.level2;
+package solution.programmers.level2.implement;
 import java.util.*;
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/132265
