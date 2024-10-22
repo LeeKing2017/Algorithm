@@ -23,6 +23,7 @@ public class Programmers155651 {
         PriorityQueue<int[]> booked = new PriorityQueue<>(Comparator.comparingInt(o1 -> o1[1]));
         initValue(book_time);
         Arrays.sort(times, Comparator.comparingInt(o1 -> o1[0]));
+        Arrays.sort(times, Comparator.comparingInt((int[] o1) -> o1[1]).thenComparing(o1 -> o1[2]).reversed());
 
         for (int[] time : times) {
             if (booked.isEmpty()) {
