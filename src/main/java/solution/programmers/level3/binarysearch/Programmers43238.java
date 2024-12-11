@@ -1,7 +1,11 @@
-package solution.programmers.level3;
+package solution.programmers.level3.binarysearch;
 
 import java.util.Arrays;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/43238
+ * 입국심사
+ */
 public class Programmers43238 {
     public static void main(String[] args) {
         int n = 6;
